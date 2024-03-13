@@ -11,7 +11,7 @@ Me chamo <b> Henry Loiola</b>.
 <a href="https://api.whatsapp.com/send?phone=5521998006084" target="_blank">
   <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px"      height="48px">
 </a>
-<a href="www.linkedin.com/in/henry-loiola" target="_blank">
+<a href="www.linkedin.com/in/henry-loiola/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
@@ -29,8 +29,8 @@ Me chamo <b> Henry Loiola</b>.
 <br/>
 <div>
   <a href="https://github.com/maxwelllbarboza">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=maxwelllbarboza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelllbarboza&layout=compact&langs_count=16&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Henry-Loiola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Loiola&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
@@ -53,14 +53,9 @@ Me chamo <b> Henry Loiola</b>.
   <a>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>  
-   <a>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </a>
+  
 
 </p>
   
 <p align="center">Visitas</p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/maxwelllbarboza/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Henry-Loiola/count.svg" /></p>
