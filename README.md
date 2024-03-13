@@ -11,7 +11,7 @@ Me chamo <b> Henry Loiola</b>.
 <a href="https://api.whatsapp.com/send?phone=5521998006084" target="_blank">
   <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px"      height="48px">
 </a>
-<a href="www.linkedin.com/in/henry-loiola/" target="_blank">
+<a href="https://www.linkedin.com/in/henry-loiola-89b049269/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=br" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
