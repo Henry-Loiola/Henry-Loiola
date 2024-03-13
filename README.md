@@ -5,13 +5,13 @@
 </p>
 
 <p align="left" >
-Me chamo <b> Maxwell Ribeiro Barboza</b>.
+Me chamo <b> Henry Loiola</b>.
 </p>
 
-<a href="https://api.whatsapp.com/send?phone=5521965170368" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=5521998006084" target="_blank">
   <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px"      height="48px">
 </a>
-<a href="https://www.linkedin.com/in/maxwell-ribeiro-barboza-2677351a5/" target="_blank">
+<a href="www.linkedin.com/in/henry-loiola" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
@@ -23,9 +23,9 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 **Sobre mim:**
 
 - :mortar_board: Estudante de Tecnologia de Sistemas de Computação <a href = "https://pt.wikipedia.org/wiki/Universidade_Federal_Fluminense">Universidade Federal Fluminense</a>.
-- :computer: Formado como Desenvolvedor Full Stack pela  <a href="https://cubos.academy"> Cubos Academy's</a>.    
-- 📫 Se quiser pode enviar um email para maxwellbarboza@hotmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1of8jebSTuf0vi1sAx6crklHbCyOdfFm5/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- :computer: Formando em Desenvolvedor Full Stack Python pela  <a href="https://ebaconline.com.br/"> EBAC</a>.    
+- 📫 Se quiser pode enviar um email para henryloiola@gmail.com.
+- 📝 Veja meu <a href="https://docs.google.com/document/d/1eBUBK8texE6A1O8989IKKLaHBYdj7f4jIXVzZMZrSpc/edit?usp=drive_link" target="_blank">Currículo</a> para mais informações.
 <br/>
 <div>
   <a href="https://github.com/maxwelllbarboza">
