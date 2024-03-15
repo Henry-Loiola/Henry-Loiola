@@ -28,7 +28,7 @@ Me chamo <b> Henry Loiola</b>.
 - 📝 Veja meu <a href="https://docs.google.com/document/d/1eBUBK8texE6A1O8989IKKLaHBYdj7f4jIXVzZMZrSpc/edit?usp=drive_link" target="_blank">Currículo</a> para mais informações.
 <br/>
 <div>
-  <a href="https://github.com/maxwelllbarboza">
+  <a href="https://github.com/Henry-Loiola">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Henry-Loiola&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Loiola&layout=compact&langs_count=16&theme=dark"/>
 </div>
