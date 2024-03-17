@@ -25,7 +25,7 @@ Me chamo <b> Henry Loiola</b>.
 - :mortar_board: Estudante de Tecnologia de Sistemas de Computação <a href = "https://pt.wikipedia.org/wiki/Universidade_Federal_Fluminense">Universidade Federal Fluminense</a>.
 - :computer: Formando em Desenvolvedor Full Stack Python pela  <a href="https://ebaconline.com.br/"> EBAC</a>.    
 - 📫 Se quiser pode enviar um email para henryloiola@gmail.com.
-- 📝 Veja meu <a href="https://docs.google.com/document/d/1eBUBK8texE6A1O8989IKKLaHBYdj7f4jIXVzZMZrSpc/edit?usp=drive_link" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="" target="_blank">Currículo</a> para mais informações.
 <br/>
 <div>
   <a href="https://github.com/Henry-Loiola">
